@@ -9,6 +9,8 @@ simple ObjC program that shows some useful informations like
 • JIT Available or not  
 • iOS Version (js open Settings)  
 
+Currently only available for the rootless .deb.  
+
 i vibecoded ts for learn some ObjC.  
 Thank You, Gemini 3.6!!  
 
