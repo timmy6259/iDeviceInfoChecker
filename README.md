@@ -19,10 +19,5 @@ Thank You, Gemini 3.6!!
 
 You need a Theos SDK to build this project.  
 after installations,
-clone this repository and just type
-
-```bash
-make -j$(nproc) package
-```
-
+clone this repository and just type `make -j$(nproc) package`  
 on the projects root directory
