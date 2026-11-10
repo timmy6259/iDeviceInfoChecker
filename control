@@ -1,0 +1,9 @@
+Package: com.timmy6259.ideviceinfochecker
+Name: iDeviceInfoChecker
+Depends: mobilesubstrate, firmware (>= 15.0)
+Version: 0.1.0
+Description: iOS's misc info checker. WARNING: WIP and Vibecoded.
+Architecture: iphoneos-arm64
+Maintainer: Timmy6259
+Author: Timmy6259
+Section: Utilities
